@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software deve
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/suyog-redkar-a02142170/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/suyog-redkar-a02142170/)
 - ✉️ Email: suyogredkar.ireland@gmail.com
 
 ---
