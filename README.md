@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Suyog Redkar
 
 Welcome to my GitHub profile! I'm a passionate and detail-oriented software developer focused on building scalable, secure, and efficient applications. Whether it's the web, cloud, or mobile, I love turning ideas into reality through code.
 
@@ -19,38 +19,14 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented software deve
 
 - 🔧 Build cloud-enabled applications using modern DevOps practices
 - 📱 Develop cross-platform mobile apps with React Native
-- 🛡️ Secure and test web applications using best practices (OWASP, CI/CD, etc.)
-- 💡 Create smart contract-based decentralized applications (dApps) on Ethereum (Sepolia)
-
----
-
-## 📂 Featured Projects
-
-### 🛍️ Decentralized Furniture Store  
-**Solidity + Web3.js + HTML + Bootstrap**  
-Smart contracts for furniture products & feedback | Web3 login with MetaMask | Cloudinary image uploads
-
-### 📦 Inventory Management System  
-**Python + Django + AWS (DynamoDB, SES, SNS)**  
-Authentication, stock tracking, email alerts for low stock, deployed on AWS Elastic Beanstalk
-
-### 🧾 IMSCAN CS – Document Management Tool  
-Document processing and classification using metadata and tagging, built with React and Node.js
-
----
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+- 🛡️ Secure and test web applications using best practices (CI/CD, etc.)
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/suyog-redkar-a02142170/))
+- ✉️ Email: suyogredkar.ireland@gmail.com
 
 ---
 
